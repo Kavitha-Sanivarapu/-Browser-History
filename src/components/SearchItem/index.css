@@ -1,0 +1,25 @@
+.item-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  list-style-type: none;
+  margin: 20px;
+  padding: 20px;
+}
+.space-container {
+  display: flex;
+}
+.timeAccessed {
+  margin-right: 40px;
+}
+.domain-logo {
+  margin-right: 25px;
+}
+.title {
+  margin-right: 25px;
+}
+.domainUrl {
+  margin-right: 25px;
+}
+.delete-icon {
+}
